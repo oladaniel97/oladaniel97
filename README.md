@@ -1,5 +1,5 @@
 
-# Hi there, I'am Daniel Olayinka Amodu.
+# Hi there, I am Daniel Olayinka Amodu.
 
 ## 🚀 About Me
 # I'm a full stack developer...
